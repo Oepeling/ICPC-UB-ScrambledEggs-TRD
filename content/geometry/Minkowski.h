@@ -26,5 +26,5 @@ vector<Point> MinkowskiSum(vector<Point> P, vector<Point> Q) {
       ++j;
     }
   }
-  return R;
+  return R; //R.size() == n + m - 1 => inchide cercul
 }

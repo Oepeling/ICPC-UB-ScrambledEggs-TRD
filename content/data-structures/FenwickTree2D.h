@@ -3,7 +3,7 @@
  * Date: 2017-05-11
  * License: CC0
  * Source: folklore
- * Description: Computes sums $a[i,j]$ for all $i<x$, $j<y$, 
+ * Description: Computes sums $a[i,j]$ for all $i \leq x$, $j<y$, 
  * and increases single elements $a[x,y]$.
  * Requires that the elements to be updated are known in 
  * advance (call FakeUpdate() before Build()).

@@ -142,7 +142,7 @@
 \contentsline {subsection}{\texttt {HopcroftKarp.h}\hspace {0.2em}}{13}{lstnumber.7.11.34}%
 \contentsline {subsection}{\texttt {Blossom.h}\hspace {0.2em}}{13}{lstnumber.7.12.28}%
 \contentsline {subsection}{\texttt {MinCostMaxFlow.h}\hspace {0.2em}}{13}{lstnumber.7.13.52}%
-\contentsline {subsection}{\texttt {NetworkSimplex.h}\hspace {0.2em}}{14}{lstnumber.7.14.69}%
+\contentsline {subsection}{\texttt {NetworkSimplex.h}\hspace {0.2em}}{14}{lstnumber.7.14.70}%
 \contentsline {subsection}{\texttt {WeightedMatching.h}\hspace {0.2em}}{14}{lstnumber.7.15.86}%
 \contentsline {subsection}{\texttt {MatroidIntersection.h}\hspace {0.2em}}{14}{lstnumber.7.16.49}%
 \contentsline {subsection}{\numberline {7.2.1}Flows with demands}{15}{subsection.7.2.1}%
@@ -231,4 +231,6 @@
 \contentsline {subsection}{\numberline {10.4.2}Pragmas}{24}{subsection.10.4.2}%
 \contentsline {subsection}{\texttt {Montgomery.h}\hspace {0.2em}}{24}{subsection.10.4.2}%
 \contentsline {subsection}{\texttt {FastInput.h}\hspace {0.2em}}{24}{lstnumber.10.6.40}%
+\contentsline {subsection}{\texttt {FastModProduct.h}\hspace {0.2em}}{24}{lstnumber.10.7.17}%
+\contentsline {subsection}{\texttt {DemandFlow.h}\hspace {0.2em}}{24}{lstnumber.10.8.14}%
 \contentsfinish 
